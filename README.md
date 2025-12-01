@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Samira Rastellaqa
 
-<!--
-**Samira123-hub/Samira123-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Software Engineering student at ENSA Oujda  
+💻 Passionate about **Full-Stack** and **Front-End React** development  
+🌍 Open to international opportunities and dynamic, innovative environments  
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Front-End: React, Angular, JavaScript, HTML, CSS, Tailwind, Bootstrap  
+- Back-End: Spring Boot, Symfony, .NET/C#, PostgreSQL, MS SQL Server  
+- Tools: GitHub, Agile (Scrum), ArcGIS, PostGIS  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- **ElevateUMP**: Application for managing job offers and training programs  
+- **Symfony Task Manager**: Team task management system  
+- **GitHub Portfolio**: [Link to my projects](https://github.com/your-username)  
+
+## 📫 Contact Me
+- Email: your.email@example.com  
+- LinkedIn: [My LinkedIn Profile](https://linkedin.com/in/your-profile)  
