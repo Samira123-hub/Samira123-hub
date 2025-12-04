@@ -6,21 +6,32 @@
 💻 Passionate about **Full-Stack** development with a particular interest in **Salesforce**, **DevOps**, **Testing**, and **Artificial Intelligence**  
 🌍 Open to opportunities and ready to learn and grow more 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&color=00FF00&lines=Looking+for+a;PFE+internship;Do+have+an+opportunity+?;What+are+you+waiting+for+?;Contact+me)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&color=00FF00&lines=Looking+for+a+PFE+internship;Do+have+an+opportunity+?;What+are+you+waiting+for+?;Contact+me)](https://git.io/typing-svg)
 
 ---
 
-## 🚀 Skills & Tools
-
+## 🚀 Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+## 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+## 🛠️ Tools & Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+## ✅ Testing
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+## 📋 Methodologies
 ![Agile](https://img.shields.io/badge/Agile-Scrum-blue?style=for-the-badge)
+
 
 ---
 
