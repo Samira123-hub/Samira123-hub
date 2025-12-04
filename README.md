@@ -26,11 +26,10 @@
 
 ## 📂 Featured Projects
 
-- **ElevateUMP**: Web application for managing project calls within the P2E program at University Mohammed First, Oujda  
-- **Symfony Task Manager**: A task management system that helps users organize and track tasks efficiently  
-- **LinkUp**: A social media mobile application that helps users connect with each other  
-- **PERT Resolution**: A desktop application built in Python to implement the PERT method  
-- **Portfolio GitHub**: [Link to my projects](https://github.com/Samira123-hub)  
+- **ElevateUMP**: Web application for managing project calls within the P2E program at University Mohammed First, Oujda  [demo](https://drive.google.com/drive/folders/10lwkMsXQUI6haZZhly_2zl2f2hTmV42h?usp=sharing)  
+- **Symfony Task Manager**: A task management system that helps users organize and track tasks efficiently  [demo](https://drive.google.com/drive/folders/1uFte4ZWpF1ihpytbsmQQX_fqTB1RssRA?usp=sharing)  
+- **LinkUp**: A social media mobile application that helps users connect with each other  [demo](https://drive.google.com/drive/folders/1NvFCfviRACD8STLqEX0e__iX-pr3k6Xj?usp=sharing)
+- **PERT Resolution**: A desktop application built in Python to implement the PERT method  [demo](https://drive.google.com/drive/folders/1e0UJgK8qompeM6YoUrhvsnUN6sYdzN0_?usp=sharing)
 
 ---
 
