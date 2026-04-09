@@ -6,7 +6,7 @@
 💻 Passionate about **Full-Stack** development with a particular interest in **Salesforce**, **DevOps**, **Testing**, and **Artificial Intelligence**  
 🌍 Open to opportunities and ready to learn and grow more 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&color=00FF00&lines=Future+software+engineer?;Passionate+about+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&color=00FF00&lines=Future+software+engineer;Passionate+about+AI)](https://git.io/typing-svg)
 
 ---
 
